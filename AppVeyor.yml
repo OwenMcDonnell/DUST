@@ -1,4 +1,5 @@
 environment:
+  foo: bar
   NuGetApiKey:
     secure: C8lr2mm4fyrXiqkYDZAVosF/1Ufy2hZxQvNaqehHn3zLiN3SXs/gHXzLiPoOByA
 
