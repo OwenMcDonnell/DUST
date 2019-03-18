@@ -12,4 +12,4 @@ skip_commits:
 build: false
 
 test_script:
-  - ps: Build.ps1
+  - ps: ./Build.ps1
