@@ -36,6 +36,9 @@ Task Init {
     Set-Location $ProjectRoot
     "Build System Details:"
     write-host "foo variable: $env:foo"
+    write-host $env:foo
+    write-host "encrypted variable: $env:encrypted"
+    write-host $env:encrypted
     Get-Item ENV:BH*
     "`n"
 }
