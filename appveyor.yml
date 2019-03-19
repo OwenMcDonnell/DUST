@@ -1,5 +1,7 @@
 environment:
   foo: bar
+  encrypted:
+    secure: HGoH1Q6cHSI9yXPN71xYRw==
   NuGetApiKey:
     secure: C8lr2mm4fyrXiqkYDZAVosF/1Ufy2hZxQvNaqehHn3zLiN3SXs/gHXzLiPoOByA
 
